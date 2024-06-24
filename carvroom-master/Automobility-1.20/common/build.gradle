@@ -18,6 +18,17 @@ minecraft {
     }
 }
 
+repositories {
+    mavenCentral()
+
+    maven {
+        url = 'https://repo.spongepowered.org/repository/maven-public/'
+        content {
+            excludeGroup('net.fabricmc.fabric-api')
+        }
+    }
+}
+
 dependencies {
     compileOnly group:'org.spongepowered', name:'mixin', version:'0.8.5'
     implementation group: 'com.google.code.findbugs', name: 'jsr305', version: '3.0.1'
