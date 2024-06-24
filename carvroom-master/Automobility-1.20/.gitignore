@@ -1,0 +1,42 @@
+# gradle
+
+.gradle/
+common/.gradle/
+fabric/.gradle/
+forge/.gradle/
+
+build/
+common/build/
+fabric/build/
+forge/build/
+
+out/
+classes/
+
+# eclipse
+
+*.launch
+
+# idea
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# macos
+
+*.DS_Store
+
+run/
+common/run/
+fabric/run/
+forge/run/

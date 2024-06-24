@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7324950-170b-495c-b417-653a98da8fd5" name="Changes" comment="yo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="165286d8-19f9-40fd-8842-3547edb72a10" name="Changes by megal" comment="Changes by megal" />
+    <list id="f46d57f2-3122-4f0a-b625-101009ab11f2" name="Changes by peter" comment="" />
+    <list id="c0b71efa-c87d-4b40-b1ee-946384bda5cc" name="Changes by xande" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/Automobility-1.20">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/Automobility-1.20/common">
+          <activation>
+            <after_sync>
+              <task name="prepareWorkspace" />
+            </after_sync>
+          </activation>
+        </task>
+        <task path="$PROJECT_DIR$/Automobility-1.20">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/Automobility-1.20/fabric">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;profbiggy&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e4a79541-16b8-4fff-9780-a86c338ce604" />
+        <option name="url" value="https://github.com/profbiggy/carvroom.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.gradle/caches/VanillaGradle/v2/jars/net/minecraft/joined/1.20.1/joined-1.20.1-sources.jar!/net/minecraft/world/entity/EntityType.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.gradle/caches/VanillaGradle/v2/jars/net/minecraft/joined/1.20.1/joined-1.20.1-sources.jar!/net/minecraft/world/entity/projectile/Projectile.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2bgbX1avLdixJvXso8dona94VCD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.(Common) Client (common).executor": "Debug",
+    "Gradle.Automobility-1.20 [:forge:createMcpToSrg :forge:createMcpToSrg :forge:createMcpToSrg].executor": "Run",
+    "Gradle.Automobility-1.20 [build].executor": "Run",
+    "Gradle.Automobility-1.20 [decompile].executor": "Run",
+    "Gradle.Automobility-1.20 [genSources].executor": "Run",
+    "Gradle.Automobility-1.20 [runClient].executor": "Run",
+    "Gradle.Automobility-1.20:common [prepareWorkspace].executor": "Run",
+    "Gradle.Automobility-1.20:fabric [assemble].executor": "Run",
+    "Gradle.Automobility-1.20:fabric [build].executor": "Run",
+    "Gradle.Automobility-1.20:fabric [runClient].executor": "Run",
+    "Gradle.Build Automobility-1.20.executor": "Run",
+    "Gradle.C:/Users/Justin/Downloads/Automobility-1.20 [:common:decompile].executor": "Run",
+    "Gradle.C:/Users/Justin/Downloads/Automobility-1.20/Automobility-1.20 [:forge:createMcpToSrg :forge:createMcpToSrg :forge:createMcpToSrg].executor": "Run",
+    "Gradle.C:/Users/Lars/Programmieren/Java/Minecraft/carvroom/Automobility-1.20 [:forge:createMcpToSrg :forge:createMcpToSrg :forge:createMcpToSrg].executor": "Run",
+    "Gradle.Load Gradle Dependencies.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lars/Programmieren/Java/Minecraft/carvroom",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Justin\Downloads\Automobility-1.20\Automobility-1.20\common\src\main\resources\assets\automobility\models\item" />
+      <recent name="C:\Users\Justin\Downloads\Automobility-1.20\Automobility-1.20\common\src\main\resources\assets\mariokart\models\entity\banana_throwable" />
+      <recent name="C:\Users\Justin\Downloads\Automobility-1.20\Automobility-1.20\common\src\main\resources\assets\automobility\models\entity\automobile\items\banana" />
+      <recent name="C:\Users\Justin\Downloads\Automobility-1.20\Automobility-1.20\common\src\main\resources\assets\mariokart\models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Justin\Downloads\Automobility-1.20\Automobility-1.20\common\src\main\resources\assets\mariokart\textures\shell" />
+      <recent name="C:\Users\Justin\Downloads\Automobility-1.20\Automobility-1.20\common\src\main\resources\assets\mariokart\models\entity\shell" />
+      <recent name="C:\Users\Justin\Downloads\Automobility-1.20\Automobility-1.20\common\src\main\resources\assets\mariokart\models\entity" />
+      <recent name="C:\Users\Justin\Downloads\Automobility-1.20\Automobility-1.20\common\src\main\resources\assets\mariokart\textures\box" />
+      <recent name="C:\Users\Justin\Downloads\Automobility-1.20\Automobility-1.20\fabric\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.github.foundationgames.automobility.item" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Automobility-1.20 [runClient]">
+    <configuration name="(Common) Client (common)" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="net.minecraft.client.main.Main" />
+      <module name="Automobility.common.main" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;--version&quot; &quot;1.20.1&quot; &quot;--gameDir&quot; &quot;C:\Users\Lars\Programmieren\Java\Minecraft\carvroom\Automobility-1.20\common\run&quot; &quot;--assetsDir&quot; &quot;C:\Users\Lars\AppData\Roaming\.minecraft\assets&quot; &quot;--assetIndex&quot; &quot;5&quot; &quot;--accessToken&quot; &quot;0&quot; &quot;--userType&quot; &quot;legacy&quot; &quot;--versionType&quot; &quot;release&quot;" />
+      <option name="VM_PARAMETERS" value="&quot;-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump&quot; &quot;-Djava.library.path=C:\Users\Lars\Programmieren\Java\Minecraft\carvroom\Automobility-1.20\common\build\run-natives&quot; &quot;-Djna.tmpdir=C:\Users\Lars\Programmieren\Java\Minecraft\carvroom\Automobility-1.20\common\build\run-natives&quot; &quot;-Dorg.lwjgl.system.SharedLibraryExtractPath=C:\Users\Lars\Programmieren\Java\Minecraft\carvroom\Automobility-1.20\common\build\run-natives&quot; &quot;-Dio.netty.native.workdir=C:\Users\Lars\Programmieren\Java\Minecraft\carvroom\Automobility-1.20\common\build\run-natives&quot; &quot;-Dminecraft.launcher.brand=VanillaGradle&quot; &quot;-Dminecraft.launcher.version=0.2.1-SNAPSHOT&quot;" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Automobility-1.20/common/run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="(Common) Server (common)" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="net.minecraft.server.Main" />
+      <module name="Automobility.common.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Automobility-1.20/common/run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Automobility-1.20 [genSources]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Automobility-1.20" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="genSources" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Automobility-1.20 [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Automobility-1.20" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Automobility-1.20:fabric [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Automobility-1.20/fabric" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Automobility-1.20:fabric [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Automobility-1.20/fabric" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Automobility-1.20:fabric [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Automobility-1.20/fabric" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.(Common) Client (common)" />
+      <item itemvalue="Application.(Common) Server (common)" />
+      <item itemvalue="Gradle.Automobility-1.20 [genSources]" />
+      <item itemvalue="Gradle.Automobility-1.20 [runClient]" />
+      <item itemvalue="Gradle.Automobility-1.20:fabric [assemble]" />
+      <item itemvalue="Gradle.Automobility-1.20:fabric [build]" />
+      <item itemvalue="Gradle.Automobility-1.20:fabric [runClient]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Automobility-1.20 [runClient]" />
+        <item itemvalue="Gradle.Automobility-1.20 [genSources]" />
+        <item itemvalue="Gradle.Automobility-1.20:fabric [runClient]" />
+        <item itemvalue="Gradle.Automobility-1.20:fabric [build]" />
+        <item itemvalue="Gradle.Automobility-1.20:fabric [assemble]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7324950-170b-495c-b417-653a98da8fd5" name="Changes" comment="" />
+      <created>1706639704182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706639704182</updated>
+      <workItem from="1708219282132" duration="81000" />
+      <workItem from="1708219368251" duration="230000" />
+      <workItem from="1708219607914" duration="251000" />
+      <workItem from="1708220198017" duration="1442000" />
+      <workItem from="1708221670594" duration="4285000" />
+      <workItem from="1708563670338" duration="13543000" />
+      <workItem from="1709660718039" duration="9035000" />
+      <workItem from="1709957462267" duration="63817000" />
+      <workItem from="1711642835854" duration="5974000" />
+      <workItem from="1711832692301" duration="95160000" />
+    </task>
+    <task id="LOCAL-00001" summary="yo">
+      <option name="closed" value="true" />
+      <created>1708223904716</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708223904716</updated>
+    </task>
+    <task id="LOCAL-00002" summary="yo">
+      <option name="closed" value="true" />
+      <created>1711914182379</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711914182379</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="yo" />
+    <MESSAGE value="Changes by megal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes by megal" />
+  </component>
+</project>

@@ -1,0 +1,19 @@
+{
+    "texture": {
+        "width": 64,
+        "height": 32
+    },
+    "bones": {
+        "main": {
+            "transform": {
+                "origin": [
+                    0,
+                    0,
+                    -2
+                ]
+            },
+            "cuboids": [],
+            "children": {}
+        }
+    }
+}
